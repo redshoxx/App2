@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "expo build:web",
+    "start:web": "expo start --web"
+  }
+} 
